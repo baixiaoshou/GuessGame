@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<EditText
+		android:id="@+id/edittext"
+		android:layout_height="wrap_content"
+		android:inputType="number"
+		android:layout_width="0dp"
+		android:layout_weight="4"
+		android:ems="10"
+		android:digits="1234567890"
+		android:hint="请输入一个数"
+		android:singleLine="true"
+		android:gravity="center"/>
+
+	<Button
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:text="OK"
+		android:layout_toRightOf="@id/edittext"
+		android:id="@+id/button"/>
+
+	
+</LinearLayout>
+
