@@ -3,6 +3,6 @@
 =======
 # 下载地址Download: 
 > https://github.com/baixiaoshou/GuessGame/blob/master/download/GuessGame.apk
-=======
-# GuessGameDemo
+============
+# GuessGameGit
 > branch 'master' of https://github.com/baixiaoshou/GuessGameDemo.git
